@@ -1,0 +1,2 @@
+# Metode-Terbuka
+Nonlinear math.
